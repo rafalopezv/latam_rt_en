@@ -23,7 +23,7 @@ Sys.setlocale(locale = "es_ES.UTF-8")
 <h2>Effective Reproduction Number (Rt value)</h2>
 <br>
 <br>
-<small>This section presents the weekly calculation of the Effective Reproduction Number (Rt), which is based on official reports of deaths and infections. 
+<small>This section presents the weekly calculation of the Effective Reproduction Number (Rt). The calculation is updated every week and is based on official reports of deaths and infections
 
 For the Rt calculation, the first week is based on the first reported death and infection in each country. From there, each week is understood as the following 7 days. 
 

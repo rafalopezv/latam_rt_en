@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "4067689664",
     "id" : "F5159F0E",
-    "lastKnownWriteTime" : 1601843161,
-    "last_content_update" : 1601843161618,
+    "lastKnownWriteTime" : 1601864751,
+    "last_content_update" : 1601864751222,
     "path" : "~/Documents/latam_rt_en/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "32,0",
-        "scrollLine" : "29"
+        "cursorPosition" : "26,0",
+        "scrollLine" : "18"
     },
     "read_only" : false,
     "read_only_alternatives" : [
