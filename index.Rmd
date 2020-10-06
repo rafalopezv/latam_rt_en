@@ -31,7 +31,7 @@ Rt shows the weekly transmission rate of the virus. An **Rt = 1** indicates that
 
 What is the difference between R0 and Rt? While R0 describes the potential for spread of an infection in a fully susceptible population, the effective reproductive number, or Rt, captures the rate of transmission once the virus has spread and as containment measures have begun. 
 
-See [**here**](https://rafalopezv.io/static/avina/anexo_jcb_rlv.pdf) for a more complete methodological explanation.</small>
+See [**here**](https://rafalopezv.io/static/avina/methodological_annex_english.pdf) for a more complete methodological explanation.</small>
 <br>
 <br>
 <br>
