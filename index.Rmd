@@ -92,7 +92,6 @@ graficos[[15]]
 graficos[[16]]
 graficos[[17]]
 graficos[[19]]
-graficos[[19]]
 graficos[[20]]
 ```
 <small><small><small>
