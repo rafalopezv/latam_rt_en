@@ -46,7 +46,7 @@ See [**here**](https://rafalopezv.io/static/avina/methodological_annex_english.p
 rt_confirmados
 ```
 <small><small><small>
-Our own graphic, based on data from [Jhons Hopkins University](https://github.com/CSSEGISandData/COVID-19)
+Our own graphic, based on data from [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
 </small></small></small>
 <br>
 <br>
@@ -61,7 +61,7 @@ Our own graphic, based on data from [Jhons Hopkins University](https://github.co
 rt_fallecidos
 ```
 <small><small><small>
-Our own graphic, based on data from [Jhons Hopkins University](https://github.com/CSSEGISandData/COVID-19)
+Our own graphic, based on data from [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
 </small></small></small>
 <br>
 <br>
@@ -95,5 +95,5 @@ graficos[[19]]
 graficos[[20]]
 ```
 <small><small><small>
-Our own graphic, based on data from [Jhons Hopkins University](https://github.com/CSSEGISandData/COVID-19)
+Our own graphic, based on data from [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
 </small></small></small>
