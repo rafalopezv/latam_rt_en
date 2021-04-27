@@ -26,7 +26,7 @@ epistim_intervalo_1 <- function(.data) {
     
     RO <- RO[[1]]
     
-    temp_1 <- rep((1:7), 52)
+    temp_1 <- rep((1:7), 100)
     temp_1 <- temp_1[1:(RO %>% nrow)]
     RO$dia_semana <- temp_1
     
